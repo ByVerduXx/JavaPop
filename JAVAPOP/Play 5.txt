@@ -1,0 +1,27 @@
+-------------------------------- Ficha Venta --------------------------------
+
+
+Fecha de la venta: 16/06/2020
+
+
+Datos del producto: Titulo-> Play 5
+Descripcion-> Nueva Play 5 pro
+Categoria-> Consolas y videojuegos
+Estado-> Nuevo
+Precio-> 1200.0€
+Urgente-> false
+Propietario->Jose
+Ubicación ->5423, Meco
+
+
+Datos del vendedor:
+Nombre: Jose
+DNI: 2
+
+
+Datos del comprador:
+Nombre: Pepe
+DNI: xd
+
+
+-------------------------------------------------------------------------------
